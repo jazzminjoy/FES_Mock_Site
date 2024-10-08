@@ -21,6 +21,9 @@ nav {
 
 header {
   background-color: #EADCFF;
+  background-color: #ffdce6;
+  background-color: lavender;
+  
   min-height: calc(100vh - 70px);
   padding: 24px;
   display: flex;
@@ -121,6 +124,7 @@ h2 {
 
 #about {
   background-color: #F8FFDC;
+  background-color: #DCE9FF;
 }
 
 .section__description {
@@ -154,6 +158,7 @@ h2 {
 
 #community {
   background-color: #CEFEFF;
+  background-color: #cbe9dc;
 
 }
 .section__description {
@@ -188,6 +193,8 @@ h2 {
 */
 #staffboard {
   background-color: #cbe9dc;
+  background-color: #EADCFF;
+
 }
 
 .staffboard__description--para {
@@ -257,6 +264,10 @@ footer {
 
 .footer__links {
   margin-bottom: 32px;
+}
+
+p .top {
+  font-size: 12px;
 }
 
 /* 
